@@ -5,7 +5,7 @@
 ### Netlify
 ![pricing](./images/netlifyPricing.png)
 ![pricing](./images/netlifyPricing2.png)
-[Pricing](https://www.netlify.com/pricing/#features)
+[Netlify Pricing](https://www.netlify.com/pricing/#features)
 
 We could probably get away with the free tier.  Maybe Pro version?
 
@@ -19,7 +19,7 @@ We could probably get away with the free tier.  Maybe Pro version?
 ![pricing3](./images/herokuPricing3.png)
 ![pricing4](./images/herokuPricing4.png)
 
-[Pricing](https://www.heroku.com/pricing)
+[Heroku Pricing](https://www.heroku.com/pricing)
 
 Assuming that we'll be hosting our servers on here.  We might need multiple dynos?
 
@@ -30,7 +30,7 @@ $1200 a year?
 ### MongoDB
 ![Pricing](./images/mongodbPricing.png)
 
-[Pricing](https://www.mongodb.com/cloud/atlas/pricing)
+[MongoDB Pricing](https://www.mongodb.com/cloud/atlas/pricing)
 
 How much storage do we need for our users?
 
@@ -51,10 +51,11 @@ Assuming our current space per users:
 ---
 ### Twilio
 ![pricing](./images/twilioPricing.png)
+![pricing](./images/twilioPricing2.png)
 
 We are going to use the programmable SMS
 
-[Pricing](https://www.twilio.com/sms/pricing/us)
+[Twilio Pricing](https://www.twilio.com/sms/pricing/us)
 
 $0.0075 per incoming/outgoing message
 
